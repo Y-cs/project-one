@@ -11,8 +11,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>event-bus</module>
+        <module>mysql</module>
     </modules>
-
+    <name>组件</name>
     <artifactId>basic</artifactId>
 
     <properties>
